@@ -29,5 +29,5 @@ void loop()
   Serial.println(magField); 
   Serial.println("---------------------------------------");
   delay(1000);
-  Serial.print ("Probando para github");
+  Serial.print ("Probando para visual");
 }
