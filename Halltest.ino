@@ -1,3 +1,5 @@
+
+#include <Arduino.h>
 #include "Hall_tst.h"
 float rawValue = 0;
 float vOut = 0;
